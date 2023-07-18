@@ -13,7 +13,7 @@ body {
     background-size: cover;
 }
 .profile-card {
-    background-color: hsla(0, 0%, 100%, .5);
+    background-color: hsla(0, 0%, 100%, 0.55);
     width: 480px;
     max-width: calc(100vw - 10px);
 }
@@ -38,9 +38,7 @@ img {
     margin: auto;
 }
 
-li {
-    display: inline;
-}
+
 
 ul {
     list-style-type: none;
